@@ -10,4 +10,12 @@
 4. Быстрая
 5. Пирамидальная
 
-[PetControllerTests](https://github.com/MikhailAkulov/Architecture_home_work_12/blob/main/ClinicService/ClinicServiceTests/PetControllerTests.cs)
+Результаты:
+
+`Время выполнения пузырьковой сортировки: 23380 мс.
+Время выполнения сортировки выбором: 4812 мс.
+Время выполнения сортировки вставкой: 4898 мс.
+Время выполнения быстрой сортировки: 16 мс.
+Время выполнения пирамидальной сортировки: 0 мс.`
+
+[ComparisonOfSortingMethods](https://github.com/MikhailAkulov/Algorithms_home_works/blob/main/src/main/java/home_work_2/ComparisonOfSortingMethods.java)
