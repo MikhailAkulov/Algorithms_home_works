@@ -4,4 +4,4 @@
 
 Точка входа:
 
-[ComparisonOfSortingMethods](https://github.com/MikhailAkulov/Algorithms_home_works/blob/main/src/main/java/home_work_2/ComparisonOfSortingMethods.java)
+[App](https://github.com/MikhailAkulov/Algorithms_home_works/blob/main/src/main/java/home_work_3/App.java)
